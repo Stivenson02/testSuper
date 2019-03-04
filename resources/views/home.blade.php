@@ -25,6 +25,12 @@
                             </a>
                         @endif
                     </div>
+
+                    <p>
+                       <strong>- Asegurate de correr los seeders</strong> <br>
+                       <strong>- Los usuarios de Tipo 1 son Proveedores ellos pueden agregar Lotes a los productos</strong> </br>
+                       <strong>- Los usuarios de Tipo 0 son clientes ellos pueden comprar y ver el carrito de compras</strong> </br>
+                    </p>
                 </div>
             </div>
         </div>
